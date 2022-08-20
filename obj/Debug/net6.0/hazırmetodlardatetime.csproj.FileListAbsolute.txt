@@ -1,0 +1,15 @@
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\bin\Debug\net6.0\hazırmetodlardatetime.exe
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\bin\Debug\net6.0\hazırmetodlardatetime.deps.json
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\bin\Debug\net6.0\hazırmetodlardatetime.runtimeconfig.json
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\bin\Debug\net6.0\hazırmetodlardatetime.dll
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\bin\Debug\net6.0\hazırmetodlardatetime.pdb
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\obj\Debug\net6.0\hazırmetodlardatetime.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\obj\Debug\net6.0\hazırmetodlardatetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\obj\Debug\net6.0\hazırmetodlardatetime.AssemblyInfoInputs.cache
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\obj\Debug\net6.0\hazırmetodlardatetime.AssemblyInfo.cs
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\obj\Debug\net6.0\hazırmetodlardatetime.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\obj\Debug\net6.0\hazırmetodlardatetime.dll
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\obj\Debug\net6.0\refint\hazırmetodlardatetime.dll
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\obj\Debug\net6.0\hazırmetodlardatetime.pdb
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\obj\Debug\net6.0\hazırmetodlardatetime.genruntimeconfig.cache
+C:\Users\serap\Desktop\Pratikler\hazırmetodlardatetime\obj\Debug\net6.0\ref\hazırmetodlardatetime.dll
